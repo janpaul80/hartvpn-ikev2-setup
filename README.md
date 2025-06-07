@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/janpaul80/hartvpn-ikev2-setup/main/hartvpn-banner.jpg" alt="HartVPN Banner" width="100%" />
+
 # 🛡 HartVPN – IKEv2 VPN + Smart DNS
 
 Secure your browsing experience with a custom-built, production-grade VPN using StrongSwan and Smart DNS — inspired by Surfshark and NordVPN.
